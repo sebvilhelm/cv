@@ -43,6 +43,9 @@ _Copenhagen School of Design and Technology (KEA)_
 
 ## Professional Experience
 
+### 2019 - now: Associate Software Engineer, Zendesk
+
+
 ### 2018: Developer Internship, Ajukreizi Aps
 
 As part of a small team, I assisted in development of web applications using React.js, JavaScript, and Firebase. I redid their website using Next.js and Wordpress, with animations, a focus on accessibility, and multi-language capabilities.
@@ -50,6 +53,7 @@ As part of a small team, I assisted in development of web applications using Rea
 ### 2017-2018: Developer, Frankly A/S
 
 As full-time, and later student developer, I created websites and applications using Wordpress for small and big clients. Furthermore I assisted with any JavaScript development, and maintained projects made with Laravel, CSS, Drupal, and more. I also developed HTML5 ads for Google Adform.
+
 
 ## Other skills
 
