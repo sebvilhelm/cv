@@ -7,7 +7,7 @@
 
 </header>
 
-I am a full-stack JavaScript Developer from Copenhagen, currently working. I am passionate with React (and React Native), GraphQL, Node.js, accessibility, performance, and user experience. I believe in finding the right tools for the job, and I am not afraid to dive into uncharted waters. I love to learn, and am constantly trying out new tech. I'm currently very interested in functional programming and OCaml/ReasonML.
+I am a full-stack JavaScript Developer from Copenhagen, currently working at Zendesk. I am passionate with React (and React Native), GraphQL, Node.js, accessibility, performance, and user experience. I believe in finding the right tools for the job, and I am not afraid to dive into uncharted waters. I love to learn, and am constantly trying out new tech. I'm currently very interested in functional programming and OCaml/ReasonML.
 
 I am currently looking for opportunities working on strongly-typed codebases, with a high regard for reliability and maintainability, and a down-to-earth, passionate culture.
 
