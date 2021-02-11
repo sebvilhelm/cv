@@ -7,33 +7,32 @@
 
 </header>
 
-I am a full-stack developer from Copenhagen, currently working at Zendesk. I am passionate about accessibility, performance, and user experience, and I like React, GraphQL, and static type systems. I believe in finding the right tools for the job, and I am not afraid to dive into uncharted waters. I love to learn, and am constantly trying out new tech. I'm currently thinking a lot about Rust, OCaml, type systems and functional programming.
+I am a full-stack developer from Copenhagen, currently working at Zendesk. I am passionate about accessibility, performance, and user experience, and I like React, GraphQL, and static type systems. I believe in finding the right tools for the job, and I am not afraid to dive into uncharted waters. I love to learn, and am constantly trying out new tech. I'm currently thinking a lot about TypeScript, Rust, Deno, OCaml (occasionally) and similar tech.
 
 I am looking for opportunities working on strongly-typed codebases, with a high regard for reliability and maintainability, and a down-to-earth, passionate culture.
 
-I am 27 years old, and live in the North Western neighborhood of Copenhagen with my fiancé. I enjoy brewing coffee — _the nerdy way_; playing and listening to music, and working on all sorts of programming side projects to hone my skills as a developer, and learn new tools and languages.
+I am 28 years old, and live in the North Western neighborhood of Copenhagen with my fiancé. I enjoy brewing coffee — _the nerdy way_; playing and listening to music, and working on all sorts of programming side projects to hone my skills as a developer, and learn new tools and languages.
 
 ## Proficiencies
 
 My main proficiencies include:
 
-- Modern JavaScript development, including TypeScript, ES6 and beyond.
+- Modern JavaScript & TypeScript development.
 - Modern front end frameworks, primarily React.
 - Accessibility testing.
-- Full-stack development with Node.js, and (a little bit of) Ruby and Rails.
-- GraphQL.
-- Javascript bundlers, e.g., Webpack, Rollup and Parcel.
+- Full-stack development; e.g. with Node.js, and (a little bit of) Ruby and Rails.
+- GraphQL; but also REST.
+- Javascript bundlers, e.g., Webpack, Rollup, Parcel, @swc, esbuild, and the likes.
 - SQL and NoSQL databases, including PostgreSQL, MongoDB, and MySQL.
-- Testing, primarily using Jest, react-testing-library, and Cypress.io.
+- Testing; primarily using Jest, react-testing-library, and Cypress.io.
 - HTML and CSS, also.
 
 And some of the stuff I know, but want to learn even better:
 
-- Docker.
-- Typescript.
-- OCaml/ReasonML.
 - Rust.
-- React Native.
+- Functional paradigms.
+- Docker.
+- OCaml/ReasonML/ReScript.
 
 ## Professional Experience
 
@@ -73,10 +72,9 @@ _Copenhagen School of Design and Technology (KEA)_
 
 - Redux
 - Apollo Client
-- Sketch
+- Ruby
 - PHP
 - Wordpress
-- Slack emojis
 
 </div>
 
