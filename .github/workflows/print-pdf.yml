@@ -1,5 +1,5 @@
 name: print-pdf
-on: [push]
+on: push
 
 jobs:
   print-to-pdf:
