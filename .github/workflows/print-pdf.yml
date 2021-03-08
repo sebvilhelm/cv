@@ -2,11 +2,11 @@ name: print-pdf
 on: [push, pull_request]
 
 jobs:
-  check-bats-version:
+  print-to-pdf:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
       - run: pip install weasyprint
       - run: sudo apt install pandoc
-      - run: weasyprint -v
+      - run: pandoc src/cv.md --css src/print.css -o dist/CV.pdf --pdf-engine weasyprint --metadata pagetitle="Sebastian Vilhelm Nielsen CV"
