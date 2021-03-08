@@ -1,5 +1,5 @@
 name: print-pdf
-on: [push, pull_request]
+on: [push]
 
 jobs:
   print-to-pdf:
@@ -10,3 +10,7 @@ jobs:
       - run: pip install weasyprint
       - run: sudo apt install pandoc
       - run: pandoc src/cv.md --css src/print.css -o dist/CV.pdf --pdf-engine weasyprint --metadata pagetitle="Sebastian Vilhelm Nielsen CV"
+      - run: |
+          git add dist/CV.pdf
+          git commit -m "Print CV to PDF"
+          git push
