@@ -70,6 +70,8 @@ _Copenhagen School of Design and Technology (KEA)_
 
 <div class="skills">
 
+- Git
+- ViM
 - Redux
 - Apollo Client
 - Ruby
