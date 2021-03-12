@@ -27,7 +27,7 @@ My main proficiencies include:
 - Testing; primarily using Jest, react-testing-library, and Cypress.io.
 - HTML and CSS, also.
 
-And some of the stuff I know, but want to learn even better:
+And some of the stuff I'm keen on learning more about:
 
 - Rust.
 - Functional paradigms.
