@@ -44,7 +44,7 @@ Working as a Full Stack developer in the Growth team for the Zendesk product Gui
 - Building and integrating a marketplace for purchasing and selling themes for Guide.
 - Led the push for accessibility improvements and WCAG2 compliance for Zendesk Guide.
 - Developing a public REST API for managing Guide themes.
-- Writing tests using several frameworks, including Jest, Mocha, AVA, Selenium, and RSpec.
+- Writing tests using several frameworks, including Jest, Mocha, AVA, Selenium, Cypress, and RSpec.
 - Writing and maintaining GraphQL backends in Ruby and Node.js.
 - Maintaining build tooling for several JavaScript projects.
 
