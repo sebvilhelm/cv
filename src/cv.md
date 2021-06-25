@@ -11,7 +11,7 @@ I am a full-stack developer from Copenhagen, currently working at Zendesk. I am 
 
 I am looking for opportunities working on strongly-typed codebases, with a high regard for reliability and maintainability, and a down-to-earth, passionate culture.
 
-I am 28 years old, and live in the North Western neighborhood of Copenhagen with my fiancé. I enjoy brewing coffee — _the nerdy way_; playing and listening to music, and working on all sorts of programming side projects to hone my skills as a developer, and learn new tools and languages.
+I am 29 years old, and live in the North Western neighborhood of Copenhagen with my fiancé. I enjoy brewing coffee — _the nerdy way_; playing and listening to music, and working on all sorts of programming side projects to hone my skills as a developer, and learn new tools and languages.
 
 ## Proficiencies
 
