@@ -36,7 +36,9 @@ And some of the stuff I'm keen on learning more about:
 
 ## Professional Experience
 
-### March 2019 - now: Software Engineer, Zendesk
+### July 2021 - now: Frontend Developer, Lunar
+
+### March 2019 - June 2021: Software Engineer, Zendesk
 
 Working as a Full Stack developer in the Growth team for the Zendesk product Guide, maintaining the theming integration for Guide Help Centers. Working on a lot of React and Ruby on Rails.
 
