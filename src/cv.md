@@ -36,7 +36,9 @@ And some of the stuff I'm keen on learning more about:
 
 ## Professional Experience
 
-### July 2021 - now: Frontend Developer, Lunar
+### July 2021 - now: Frontend Engineer, Lunar
+
+Maintaining and developing the internal CRM built with React, TypeScript, GraphQL (Apollo Client) and CSS-in-JS (Styled Components).
 
 ### March 2019 - June 2021: Software Engineer, Zendesk
 
