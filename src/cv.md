@@ -1,5 +1,5 @@
 <header>
-# Sebastian Vilhelm Nielsen
+# Sebastian Vilhelm Juhl
 
 ![](./sebastian.png)
 
@@ -7,11 +7,7 @@
 
 </header>
 
-I am a full-stack developer from Copenhagen, currently working at Zendesk. I am passionate about accessibility, performance, and user experience, and I like React, GraphQL, and static type systems. I believe in finding the right tools for the job, and I am not afraid to dive into uncharted waters. I love to learn, and am constantly trying out new tech. I'm currently thinking a lot about TypeScript, Rust, Deno, OCaml (occasionally) and similar tech.
-
-I am looking for opportunities working on strongly-typed codebases, with a high regard for reliability and maintainability, and a down-to-earth, passionate culture.
-
-I am 29 years old, and live in the North Western neighborhood of Copenhagen with my fiancé. I enjoy brewing coffee — _the nerdy way_; playing and listening to music, and working on all sorts of programming side projects to hone my skills as a developer, and learn new tools and languages.
+I am a full-stack developer from Copenhagen, currently working at Lunar. I am passionate about accessibility, performance, and user experience, and I like React, systems design, and static type systems. I believe in finding the right tools for the job, and I am not afraid to dive into uncharted waters. I love to learn, and am constantly trying out new tech.
 
 ## Proficiencies
 
@@ -30,9 +26,6 @@ My main proficiencies include:
 And some of the stuff I'm keen on learning more about:
 
 - Rust.
-- Functional paradigms.
-- Docker.
-- OCaml/ReasonML/ReScript.
 
 ## Professional Experience
 
@@ -69,22 +62,3 @@ _Copenhagen School of Design and Technology (KEA)_
 ### 2015 - 2017: AP Graduate in Multimedia Design and Communication
 
 _Copenhagen School of Design and Technology (KEA)_
-
-## Other skills
-
-<div class="skills">
-
-- Git
-- ViM
-- Redux
-- Apollo Client
-- Ruby
-- PHP
-- Wordpress
-
-</div>
-
-## Languages
-
-- Danish, fluently
-- English, fluently
