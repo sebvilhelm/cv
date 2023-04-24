@@ -9,7 +9,7 @@ jobs:
       - uses: actions/setup-python@v2
       - run: pip install weasyprint
       - run: sudo apt install pandoc
-      - run: pandoc src/cv.md --css src/print.css -o CV.pdf --pdf-engine weasyprint --metadata pagetitle="Sebastian Vilhelm Nielsen CV"
+      - run: pandoc src/cv.md --css src/print.css -o CV.pdf --pdf-engine weasyprint --metadata pagetitle="Sebastian Vilhelm Juhl CV"
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com

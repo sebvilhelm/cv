@@ -1,9 +1,9 @@
 <header>
 # Sebastian Vilhelm Juhl
 
-![](./sebastian.png)
-
+<div class="metadata">
 [seb.vilhelm@gmail.com](mailto:seb.vilhelm@gmail.com) | +45 30244148 | [github.com/sebvilhelm](https://github.com/sebvilhelm/)
+</div>
 
 </header>
 
