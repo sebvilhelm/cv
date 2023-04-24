@@ -43,7 +43,7 @@ Working as a Full Stack developer in the Growth team for the Zendesk product Gui
 
 ### 08/2018-10/2018: Developer Intern, Ajukreizi Aps
 
-### 06/2017-02/2018: Student Developer, Frankly A/S
+### 06/2017-03/2018: Student Developer, Frankly A/S
 
 ### 01/2017-06/2017: Developer Intern, Frankly A/S
 
