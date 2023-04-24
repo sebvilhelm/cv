@@ -11,21 +11,11 @@ I am a software engineer from Copenhagen. I am passionate about UX, performance 
 
 ## Proficiencies
 
-My main proficiencies include:
+I'm a software engineer, who's spent most of my professional time on front-end, crossing the boundary towards back-end mostly to develop APIs. I don't identify myself to a particular part of the stack, though, because to me, each boundary is only a part of the entire machine, that works most efficiently when each part plays well into each-others strengths.
 
-- Modern JavaScript & TypeScript development.
-- Modern front end frameworks, primarily React.
-- Accessibility testing.
-- Full-stack development; e.g. with Node.js, and (a little bit of) Ruby and Rails.
-- GraphQL; but also REST.
-- Javascript bundlers, e.g., Webpack, Rollup, Parcel, @swc, esbuild, and the likes.
-- SQL and NoSQL databases, including PostgreSQL, MongoDB, and MySQL.
-- Testing; primarily using Jest, react-testing-library, and Cypress.io.
-- HTML and CSS, also.
+I've been using React professionally for 5 years, and GraphQL almost as-long. I'm very keen on both technologies, but I'm not blind to their trade-offs. No technology is a silver bullet.
 
-And some of the stuff I'm keen on learning more about:
-
-- Rust.
+For back-end technologies I've spent the most time in Node.js servers, but also some times in Ruby on Rails, Go servers, and in my spare time I'm currently learning Rust.
 
 ## Professional Experience
 
