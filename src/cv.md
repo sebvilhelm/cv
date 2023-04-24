@@ -7,7 +7,7 @@
 
 </header>
 
-I am a software engineer from Copenhagen. I am passionate about UX, performance and accessibility, and I like React, systems design, and static type systems. I am unafraid to dive into uncharted waters, and love to develop my skills and learn new technologies.
+I am a software engineer from Copenhagen, where I live with my wife and daughter. I am passionate about UX, performance and accessibility, and I like React, systems design, and static type systems. I am unafraid to dive into uncharted waters, and love to develop my skills and learn new technologies.
 
 ## Proficiencies
 
@@ -21,9 +21,9 @@ For back-end technologies I've spent the most time in Node.js servers, but also 
 
 ### 07/2021 - current: Software Engineer, Lunar
 
-Working in a squad owning the internal CRM.
+Working in the squad owning the internal CRM.
 
-- Primary engineer for a front-end in Typescript with React, using GraphQL to interface with micro service backends.
+- Primary engineer for a front-end in Typescript with React, using GraphQL to interface with micro service back-ends.
 - Maintaining and refining the architecture of said front end, using Webpack and graphql-codegen.
 - Maintenance of a legacy back-end monolith in Node.js, using Typescript, Graphql, Express, Swagger, and internal libraries for event handling and ORM.
 - Assistance in splitting said monolith vertically into micro services built in Go, co-designing with the team and contributing to APIs and code.
