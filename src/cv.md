@@ -1,6 +1,8 @@
 <header>
 # Sebastian Vilhelm Juhl
 
+![](./sebastian.jpeg)
+
 <div class="metadata">
 [seb.vilhelm@gmail.com](mailto:seb.vilhelm@gmail.com) | +45 30244148 | [github.com/sebvilhelm](https://github.com/sebvilhelm/)
 </div>
@@ -41,11 +43,11 @@ Working as a Full Stack developer in the Growth team for the Zendesk product Gui
 - Writing and maintaining GraphQL backends in Ruby and Node.js.
 - Maintaining build tooling for several JavaScript projects.
 
-### 08/2018-10/2018: Developer Intern, Ajukreizi Aps
+### 08/2018 - 10/2018: Developer Intern, Ajukreizi Aps
 
-### 06/2017-03/2018: Student Developer, Frankly A/S
+### 06/2017 - 03/2018: Student Developer, Frankly A/S
 
-### 01/2017-06/2017: Developer Intern, Frankly A/S
+### 01/2017 - 06/2017: Developer Intern, Frankly A/S
 
 ## Relevant Education
 

@@ -1,6 +1,6 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 11pt;
+  font-size: 10pt;
   line-height: 1.6;
   text-align: justify;
 }
@@ -24,11 +24,11 @@ h2 {
 }
 
 h1 {
-  font-size: 14pt;
+  font-size: 1.5em;
 }
 
 h2 {
-  font-size: 11pt;
+  font-size: 1.2em;
   display: table;
   white-space: nowrap;
   position: relative;
@@ -54,7 +54,7 @@ h2:after {
 }
 
 h3 {
-  font-size: 11pt;
+  font-size: 1em;
 }
 
 h1,
@@ -80,38 +80,17 @@ ul {
   padding-left: 5mm;
 }
 
-.skills ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  justify-content: center;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.skills li {
-  display: inline;
-}
-
-.skills li + li:before {
-  content: "◆";
-  margin: 0 1mm;
-  font-size: 5pt;
-  text-align: center;
-  color: lightgrey;
-}
-
 header {
   text-align: center;
   border-bottom: 1px double lightgrey;
 }
 
 header .metadata {
-  font-size: 8pt;
+  font-size: 0.8em;
 }
 
 img {
   margin: 0 auto;
   width: 2.5cm;
-  border-radius: 10%;
+  border-radius: 25%;
 }
