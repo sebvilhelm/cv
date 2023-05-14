@@ -46,9 +46,13 @@ Working as a Full Stack developer in the Growth team for the Zendesk product Gui
 
 ### 08/2018 - 10/2018: Developer Intern, Ajukreizi Aps
 
+Front end intern, working on projects for external clients in React, Next.js, and JavaScript.
+
 ### 06/2017 - 03/2018: Student Developer, Frankly A/S
 
 ### 01/2017 - 06/2017: Developer Intern, Frankly A/S
+
+Working as an intern, and later as a student worker, on projects for external clients, mostly custom Wordpress solutions with lots of custom PHP, CSS and JavaScript, and also web ads in JavaScript
 
 ## Relevant Education
 
