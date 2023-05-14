@@ -27,6 +27,7 @@ Working in the squad owning the internal CRM.
 
 - Primary engineer for a front-end in Typescript with React, using GraphQL to interface with micro service back-ends.
 - Maintaining and refining the architecture of said front end, using Webpack and graphql-codegen.
+- Implementing CI/CD steps in Jenkins and GitHub Actions.
 - Maintenance of a legacy back-end monolith in Node.js, using Typescript, Graphql, Express, Swagger, and internal libraries for event handling and ORM.
 - Assistance in splitting said monolith vertically into micro services built in Go, co-designing with the team and contributing to APIs and code.
 - Maintaining a GraphQL gateway service, stitching all micro service GraphQL endpoints into a singular schema for the front-end.
