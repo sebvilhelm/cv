@@ -11,7 +11,7 @@
   site: "github.com/sebvilhelm",
 )
 
-#par[
+#profile[
   Senior Software Engineer focused on developing event-sourced systems for operations and compliance processes. I specialize in building robust architectures in Go using Domain-Driven Design.
 ]
 
@@ -25,7 +25,7 @@
       [Develop systems for Financial Crime Prevention (FCP) and operations for initial and ongoing due diligence, sanction screening, transaction monitoring, and payment screening.],
       [Took ownership of core user data domain, including ongoing automatic updates via national registries in Denmark, Norway, and Sweden.],
       [*Core technologies:* Go, PostgreSQL, event sourcing, CQRS, microservices, event-driven architecture],
-    ),
+    )
     #exp_position(
       role: "Software Engineer (Squad Voyager)",
       date: "July 2021 - April 2024",
@@ -33,7 +33,7 @@
       [Maintain infrastructure for stitching many GraphQL servers (microservices) into a single gateway for front-end application.],
       [Adding features to back-end services in Go and Node.js (TypeScript).],
       [*Core technologies:* TypeScript, React.js, GraphQL, microservices, JavaScript build tools (Webpack, RSPack, Vite)],
-    ),
+    )
   ]
 )
 #exp_item(
@@ -60,12 +60,12 @@
     #exp_position(
       role: "Student Developer",
       date: "June 2017 - March 2018",
-    ),
+    )
     #exp_position(
       role: "Intern",
       date: "January 2017 - June 2017",
       [Agency work for clients, mostly custom Wordpress solutions with lots of custom PHP, CSS and JavaScript, and also web ads in JavaScript]
-    ),
+    )
   ]
 )
 

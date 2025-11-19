@@ -75,12 +75,22 @@
   ]
 }
 
+#let profile(body) = {
+    pad(
+      top: 0.5em, 
+      bottom: 1em, 
+      x: 4em, 
+      align(center, body)
+    )
+}
+
 #let exp_item(
   name,
   location: "Copenhagen",
   ..positions
 ) = {
     set block(above: 0.7em, below: 1em, spacing: 0.65em)
+    set par(leading: 0.6em)
     pad(left: 1em, right: 0.5em, box[
       #grid(
         columns: (3fr, 1fr),
@@ -101,7 +111,7 @@
   date: "June 1837 - May 1845",
   ..points
 ) = {
-    box[
+    pad(bottom: 0.5em, box[
       #grid(
         columns: (3fr, 1fr),
         align(left)[
@@ -111,6 +121,9 @@
           #date
         ]
       )
-      #list(..points)
+      #if points.pos().len() > 0 {
+        list(..points)
+      }
     ]
+  )
 }
