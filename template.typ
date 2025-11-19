@@ -1,8 +1,9 @@
 // adapted from: https://github.com/tzx/NNJR/blob/c74640445582138976de6c7a9c982ffb173363cc/template.typ
 
 #let resume(body) = {
-  set list(indent: 1em)
+  set list(indent: 1em, spacing: 0.6em)
   show list: set text(size: 0.92em)
+  show link: set text(fill: rgb("#000000"))
   // show link: underline
   // show link: set underline(offset: 3pt)
 
@@ -56,9 +57,9 @@
     block[
       #name_header(name) \
       #title_header(title) \
-      #phone |
-      #link("mailto:" + email)[#email] |
-      #link("https://" + linkedin)[#linkedin] |
+      #phone #h(3pt) | #h(3pt)
+      #link("mailto:" + email)[#email] #h(3pt) | #h(3pt)
+      #link("https://" + linkedin)[#linkedin] #h(3pt) | #h(3pt)
       #link("https://" + site)[#site]
     ]
   )
@@ -79,7 +80,7 @@
     pad(
       top: 0.5em, 
       bottom: 1em, 
-      x: 4em, 
+      x: 2em, 
       align(center, body)
     )
 }
@@ -98,7 +99,7 @@
           *#name* 
         ],
         align(right)[
-         *#location*
+         #text(fill: rgb("#555555"))[*#location*]
         ]
       )
       // TODO: whitespace when there are no items
@@ -118,7 +119,7 @@
           _#role _
         ],
         align(right)[
-          #date
+          #text(fill: rgb("#555555"))[#date]
         ]
       )
       #if points.pos().len() > 0 {

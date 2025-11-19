@@ -12,7 +12,7 @@
 )
 
 #profile[
-  Senior Software Engineer focused on developing event-sourced systems for operations and compliance processes. I specialize in building robust architectures in Go using Domain-Driven Design.
+  Senior Software Engineer focused on Go-based event-sourced systems for operations and financial crime prevention. I focus on domain modeling to turn complex real-world processes into business~flows.
 ]
 
 #resume_heading[Work experience]
@@ -24,6 +24,7 @@
       date: "April 2024 - Present",
       [Develop systems for Financial Crime Prevention (FCP) and operations for initial and ongoing due diligence, sanction screening, transaction monitoring, and payment screening.],
       [Took ownership of core user data domain, including ongoing automatic updates via national registries in Denmark, Norway, and Sweden.],
+      [Drive end-to-end feature development, owning the full lifecycle from system design and business logic to API implementation, automated acceptance testing, and frontend delivery.],
       [*Core technologies:* Go, PostgreSQL, event sourcing, CQRS, microservices, event-driven architecture],
     )
     #exp_position(
