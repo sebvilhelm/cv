@@ -11,6 +11,10 @@
   site: "github.com/sebvilhelm",
 )
 
+#par[
+  Senior Software Engineer focused on developing event-sourced systems for operations and compliance processes. I specialize in building robust architectures in Go using Domain-Driven Design.
+]
+
 #resume_heading[Work experience]
 #exp_item(
   "Lunar A/S",
